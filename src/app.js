@@ -5,4 +5,4 @@ Vue.config.productionTip = false;
 
 export const vm = new Vue({
   render: h => h(App)
-}).$mount("#app");
+});
